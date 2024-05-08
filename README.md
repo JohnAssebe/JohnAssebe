@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](https://t4.ftcdn.net/jpg/02/18/18/55/360_F_218185587_P4zituDtWJOfClUKL6merI0BgLMIxoeC.jpg)
 <h1 align="center">Hi 👋, This is Yohannes Assebe</h1>
 <h6>I am driven by a deep enthusiasm for crafting elegant and interactive user interfaces. With a strong foundation in web development and a keen eye for design, I strive to create immersive digital experiences that captivate users and bring ideas to life. My journey as a front-end developer began with a genuine curiosity for the intersection of technology and creativity. Through countless hours of learning, experimenting, and honing my skills, I have developed a solid understanding of HTML, CSS, and JavaScript, with React being my framework of choice.</h6>
 <img align="right" alt="gif coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
