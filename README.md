@@ -140,5 +140,5 @@ My expertise spans across the entire development lifecycle — from designing pi
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnassebe&" alt="johnassebe" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnassebe&show_icons=true&locale=en&layout=compact" alt="johnassebe" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnassebe&show_icons=true&locale=en&layout=compact" alt="johnassebe" /> -->
 </div>
